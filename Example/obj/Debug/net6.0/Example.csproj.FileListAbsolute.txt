@@ -1,0 +1,15 @@
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\bin\Debug\net6.0\Example.exe
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\bin\Debug\net6.0\Example.deps.json
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\bin\Debug\net6.0\Example.runtimeconfig.json
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\bin\Debug\net6.0\Example.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\bin\Debug\net6.0\Example.pdb
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.csproj.AssemblyReference.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.AssemblyInfoInputs.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.AssemblyInfo.cs
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.csproj.CoreCompileInputs.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\refint\Example.dll
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.pdb
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\Example.genruntimeconfig.cache
+C:\Users\pasho\Desktop\Тестировщик\Geek Brains\Практика\Homework007\Example\obj\Debug\net6.0\ref\Example.dll
